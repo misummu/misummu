@@ -1,10 +1,21 @@
 ---
 layout: single
 title:  "WebScraping"
+categories: Programming
+tag: [Python, Web]
+toc: true
 ---
 
 # Web_Scraping
-___
+
+
+### 소개
+
+*BeautifulSoup*를 이용한 웹스크래핑 코드입니다.
+
+
+
+### CODE
 
 ```py
 from bs4 import BeautifulSoup
@@ -59,3 +70,9 @@ else:
         print(result)
         print("/////////////////////")
 ```
+
+
+
+### 마무리
+
+좀 더 사용하기 좋고 보기 편한 인터페이스로 발전이 필요합니다.
