@@ -3,7 +3,6 @@ layout: single
 title:  "WebScraping"
 categories: Programming
 tag: [Python, Web]
-toc: true
 ---
 
 # Web_Scraping
