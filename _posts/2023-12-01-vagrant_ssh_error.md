@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Windows 운영체제를 Ansible 로 관리하기"
+title: "Vagrant SSH 접속이 안되는 문제"
 categories: Devops
 tag: [Ansible, Vagrant]
 ---
@@ -37,7 +37,7 @@ you're using.
 
 가상 머신이 설치되어 있는 폴더 (C:\HashiCorp\.vagrant\machines/) 안에 있는 private_key를
 insecurevag_private_key로 이름을 바꾼다. 가상머신이 동작하고 있는 상황이라면 vagrant halt 명령어를 실행하여 가상머신을 종료함과 동시에 새로운 개인키를 받아낸다.
-![vagrant ssh 인증 해결](D:\github_blog\misummu.github.io\images\2023-12-01-vagrant_ssh_error\vagrant ssh 인증 해결.png)
+![vagrant ssh 인증 해결](\images\2023-12-01-vagrant_ssh_error\vagrant ssh 인증 해결.png)
 
 #### 문제2:
 
