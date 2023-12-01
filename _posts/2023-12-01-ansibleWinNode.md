@@ -197,7 +197,11 @@ WinRM을 설치하면 윈도우 노드에 win_ping 모듈을 이용해서 통신
 
 ### 결과
 
-![pong](D:\github_blog\misummu.github.io\images\2023-12-01-ansibleWinNode\pong-1701420459176-14.png)
+
+
+![pong 성공](\images\2023-12-01-ansibleWinNode\pong 성공.png)
+
+
 
 ## Nginx 서비스 설치 및 실행하기
 
@@ -297,7 +301,7 @@ WinRM을 설치하면 윈도우 노드에 win_ping 모듈을 이용해서 통신
 
 
 
-![access](D:\github_blog\misummu.github.io\images\2023-12-01-ansibleWinNode\access.png)
+![access](\images\2023-12-01-ansibleWinNode\access.png)
 
 
 
@@ -336,7 +340,7 @@ WinRM을 설치하면 윈도우 노드에 win_ping 모듈을 이용해서 통신
 
 
 
-![current_timezone](D:\github_blog\misummu.github.io\images\2023-12-01-ansibleWinNode\current_timezone.png)
+![current_timezone](\images\2023-12-01-ansibleWinNode\current_timezone.png)
 
 
 
@@ -344,7 +348,7 @@ WinRM을 설치하면 윈도우 노드에 win_ping 모듈을 이용해서 통신
 
 
 
-![change_timezone](D:\github_blog\misummu.github.io\images\2023-12-01-ansibleWinNode\change_timezone.png)
+![change_timezone](\images\2023-12-01-ansibleWinNode\change_timezone.png)
 
 
 
@@ -437,4 +441,4 @@ Z: 드라이브에 마운트가 된 것 과 ansible-server 터미널에서 사�
 
 
 
-![nfs_good](D:\github_blog\misummu.github.io\images\2023-12-01-ansibleWinNode\nfs_good.png)
+![nfs_good](\images\2023-12-01-ansibleWinNode\nfs_good.png)
